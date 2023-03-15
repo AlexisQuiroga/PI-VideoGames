@@ -17,7 +17,7 @@ function About() {
 					{<a href='https://rawg.io/apidocs'>RAWG</a>} API.
 				</h4>
 				<h4>
-					Develop Hevert David Gelis Diaz for individual project for Henry
+					Develop Alexis Baltazar Quiroga for individual project for Henry
 					Bootcamp.
 				</h4>
 			</div>

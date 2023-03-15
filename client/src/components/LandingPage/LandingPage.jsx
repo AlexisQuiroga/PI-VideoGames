@@ -7,7 +7,7 @@ export default function LandingPage() {
 		<div class="background">
 			<div class="title">
 				<div class="titleh1">
-					<h1>Este es un PI</h1>
+					<h1>It's time to play</h1>
 				</div>
 				<Link to="/home">
 					<button class="title" type="submit">
